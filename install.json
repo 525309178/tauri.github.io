@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "notes": "Test version",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "pub_date": "2020-07-22T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
@@ -12,8 +12,8 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRak5JK081em8xTTNQYmFOVVlCR1g2b0tIQVdKakh6d2NDSjh3Yk8zSWJIOXZpMXhDQXFIR2ZGT0h5RmxvODB6QlRiOFFjcjFLWWRPNHBjVHpHbEtvbVlrNVN1VjVUV2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NTY3NzQ3CWZpbGU6dGF1cmktYXBwXzAuMC4wX2FtZDY0LkFwcEltYWdlLnRhci5negpQOWN2MlpsRnAwZXh6TENheWwvTnpscGVyMThITzRKazBmYWVWRVJZMmYrZTFGaDd4a1I3NUdta1FidTc5UVliSHl1RnZTSWljU1Q0bkpENU5qQUVBUT09Cg==",
-      "url": "http://10.32.11.177:9090/test/tauri-app_0.0.0_amd64.AppImage.tar.gz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=4OZP0D98XKQDVCOX220H%2F20230323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230323T103826Z&X-Amz-Expires=604800&X-Amz-Security-Token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NLZXkiOiI0T1pQMEQ5OFhLUURWQ09YMjIwSCIsImV4cCI6MTY3OTYwODgzNiwicGFyZW50IjoibWluaW8ifQ.SRBWfPtxQ6psWGPyNUYpgQeGWFfcBteuBZLRSoehzKmXqitdaEpSwmuqQyu2lcrOexja2qui5TFxf3KbdySzRQ&X-Amz-SignedHeaders=host&versionId=null&X-Amz-Signature=95a4800c943bd6774a9cd0dd56024b94b5bf7759df6e80a9e7f37655d5a71950"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRak5JK081em8xTXpzT0czWUkvdmM0NGoybm54ZVRIRUtnUDQweDBXZ0VOaVBUT1lHclJFeDNpa3dYb0RLbFlsM1BnS3Jqcm85eEREOENienVFVzBCb1RYaE1NWFU1ekFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NTcxMzQxCWZpbGU6dGF1cmktYXBwXzAuMC4wX2FtZDY0LkFwcEltYWdlLnRhci5negpiVytGZkM3ZlRRUUMrUHE0eHp3ZFZKaHg1TlpSU1ozQmpTM0FEalhVUHN6UEplMFNCUktHM1lkM05RNWttZjhrSmlLTGNKcm1Nb3o5SDF6OFAwYlZDdz09Cg==",
+      "url": "http://10.32.11.177:9090/test/tauri-app_0.0.0_amd64.AppImage.tar.gz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=4OZP0D98XKQDVCOX220H%2F20230323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230323T113714Z&X-Amz-Expires=604800&X-Amz-Security-Token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NLZXkiOiI0T1pQMEQ5OFhLUURWQ09YMjIwSCIsImV4cCI6MTY3OTYwODgzNiwicGFyZW50IjoibWluaW8ifQ.SRBWfPtxQ6psWGPyNUYpgQeGWFfcBteuBZLRSoehzKmXqitdaEpSwmuqQyu2lcrOexja2qui5TFxf3KbdySzRQ&X-Amz-SignedHeaders=host&versionId=null&X-Amz-Signature=46a3178f4c590818fa55d2e7485971437f64938b808c07a22e8be15f16cb7b36"
     },
     "windows-x86_64": {
       "signature": "Content of app.msi.sig",
