@@ -1,0 +1,23 @@
+{
+  "version": "v1.0.0",
+  "notes": "Test version",
+  "pub_date": "2020-06-22T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "Content of app.AppImage.tar.gz.sig",
+      "url": "http://10.32.11.177:9090/test/tauri-app_0.0.0_amd64.AppImage.tar.gz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=4OZP0D98XKQDVCOX220H%2F20230323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230323T100245Z&X-Amz-Expires=604800&X-Amz-Security-Token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NLZXkiOiI0T1pQMEQ5OFhLUURWQ09YMjIwSCIsImV4cCI6MTY3OTYwODgzNiwicGFyZW50IjoibWluaW8ifQ.SRBWfPtxQ6psWGPyNUYpgQeGWFfcBteuBZLRSoehzKmXqitdaEpSwmuqQyu2lcrOexja2qui5TFxf3KbdySzRQ&X-Amz-SignedHeaders=host&versionId=null&X-Amz-Signature=7fc512347012abea0e06c3e6cb651cfcd25cb571dde7e0fc4e6ec469c2ede18e"
+    },
+    "windows-x86_64": {
+      "signature": "Content of app.msi.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64.msi.zip"
+    }
+  }
+}
